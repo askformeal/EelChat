@@ -1,0 +1,12 @@
+{
+    "network": {
+        "host": "localhost",
+        "port": 1477,
+        "max_listen": 5
+    },
+    "log": {
+        "path": "./app.log",
+        "level": "DEBUG",
+        "max_bytes" : 1000
+    }
+}
